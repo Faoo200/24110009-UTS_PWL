@@ -15,5 +15,5 @@ class Mahasiswa extends Model
         'angkatan'
     ];
 
-    protected $table = 'mahasiswas';
+    protected $table = 'table_mahasiswa';
 }
